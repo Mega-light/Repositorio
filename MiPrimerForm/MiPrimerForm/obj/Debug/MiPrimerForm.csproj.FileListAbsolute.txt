@@ -1,0 +1,9 @@
+c:\users\aybar\documents\visual studio 2015\Projects\MiPrimerForm\MiPrimerForm\bin\Debug\MiPrimerForm.exe.config
+c:\users\aybar\documents\visual studio 2015\Projects\MiPrimerForm\MiPrimerForm\bin\Debug\MiPrimerForm.exe
+c:\users\aybar\documents\visual studio 2015\Projects\MiPrimerForm\MiPrimerForm\bin\Debug\MiPrimerForm.pdb
+c:\users\aybar\documents\visual studio 2015\Projects\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.csprojResolveAssemblyReference.cache
+c:\users\aybar\documents\visual studio 2015\Projects\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.Form1.resources
+c:\users\aybar\documents\visual studio 2015\Projects\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.Properties.Resources.resources
+c:\users\aybar\documents\visual studio 2015\Projects\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.csproj.GenerateResource.Cache
+c:\users\aybar\documents\visual studio 2015\Projects\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.exe
+c:\users\aybar\documents\visual studio 2015\Projects\MiPrimerForm\MiPrimerForm\obj\Debug\MiPrimerForm.pdb
